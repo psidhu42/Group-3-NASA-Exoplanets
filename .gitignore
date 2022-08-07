@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Files to ignore.
-=======
 # Files to ignore:
->>>>>>> acb5d07 (Updated Files)
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
