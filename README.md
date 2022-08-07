@@ -29,7 +29,7 @@ How can we use machine learning to automate the process of confirming a planet c
 
 ### Loading Data
 
-See ["initial_data_test.ipynb"](Project Test/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
+See ["initial_data_test.ipynb"](/Project-Test/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
 
 ### Outline / Plan
 
