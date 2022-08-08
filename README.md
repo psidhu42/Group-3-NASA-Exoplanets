@@ -38,7 +38,7 @@ Using the provisional database created from selected data from the NASA Exoplane
 Moving forward, we plan to create a Supervised Logistic Regression model/algorithm to analyze the NASA Exoplanets dataset to determine which candidate planets are in fact Exoplanets or if they are false positives.
 
 
-## Machine Learning Model
+## Database Integration
 
 ### Outline / Plan
 
