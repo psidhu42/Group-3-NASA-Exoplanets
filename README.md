@@ -29,7 +29,7 @@ How can we use machine learning to automate the process of confirming a planet c
 
 ### Loading Data
 
-See "data_test.ipynb" file in the "Project Test folder to view provisional database loaded in, and the input data labels.
+See ["initial_data_test.ipynb"](/Project-Test/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
 
 ### Outline / Plan
 
@@ -37,3 +37,28 @@ Using the provisional database created from selected data from the NASA Exoplane
 
 Moving forward, we plan to create a Supervised Logistic Regression model/algorithm to analyze the NASA Exoplanets dataset to determine which candidate planets are in fact Exoplanets or if they are false positives.
 
+
+## Database Integration
+
+### Outline / Plan
+
+Team members present a provisional database that stands in for the final database and accomplishes the following:
+
+* Sample data that mimics the expected final database structure or schema.
+
+ERD:
+
+![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/QuickDBD-export.png)
+
+
+Draft Database:
+
+![Draft_Database](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_Database.png)
+
+
+
+* Draft machine learning module is connected to the provisional database.
+
+Draft ML Mockup:
+
+![Draft_ML_Mockup](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module.png)
