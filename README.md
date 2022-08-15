@@ -90,6 +90,6 @@ PySpark Dataframes:
 
 Draft ML Mockup:
 
-![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
+![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module1.png)
 
-![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
+![Draft_ML_Mockup2](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
