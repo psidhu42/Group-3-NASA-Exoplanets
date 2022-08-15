@@ -35,8 +35,9 @@ See ["initial_data_test.ipynb"](/Project-Test/initial_data_test.ipynb) file in t
 
 Using the provisional database created from selected data from the NASA Exoplanets dataset, the dataset was explored further to determine what needs to be removed/added/kept in order to answer our question.
 
-Moving forward, we plan to create a Supervised Logistic Regression model/algorithm to analyze the NASA Exoplanets dataset to determine which candidate planets are in fact Exoplanets or if they are false positives.
-
+We decided to use Keplar's main dataset as it included planets of three category types: confirmed, false postive and candidates. With these specific categories, we look to train a model off of the verified findings (Confirmed Planets and the False Positves), and establish a test to help better predict potential canidates possibilites of becoming confirmed. For this test, we looked to evaluate nine key readings, that we saw as most fit from the Keplar Dataset, for each planet. These readings include: how many planets belong to the solar system of the planet in question, the planet's radius, equilibrium temperature and orbit time, the stars radius, temperature, mass and surface gravity and the ratio in size between the star and planet. <br>
+<br>
+With these nine key readings and the 'status' of the planet, we split our data into two seperate dataframes. The verified dataframe included planets with a status of FALSE POSITIVE (0) and CONFIRMED (1), the unverified dataframe include the planets that have a status of CANDIDATE (2). We conducted the split on the Verified dataframe by droping the status of the planets and started the training and testing through using 33% of the dataframe. We ran a binomial logistic regression from our sets as we ran the test with two possible status. Some advanatges to running a logistic regression with the data we are using, is that it allows for easy interpretation as well as higher effeciency to train. There are some draw backs to this, as this model will assume linearity between our independent and dependent variables and this may not always be the case in the data we look to evaluate.
 
 ## Database Integration
 
