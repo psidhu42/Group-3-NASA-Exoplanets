@@ -77,12 +77,12 @@ Team members present a provisional database that stands in for the final databas
 
 ERD:
 
-![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/QuickDBD-export.png)
+![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/ERD.png)
 
 
-Draft Database:
+PySpark Dataframes:
 
-![Draft_Database](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_Database.png)
+![PySpark_DataFrames](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/PySpark_DataFrames.png)
 
 
 
@@ -90,4 +90,6 @@ Draft Database:
 
 Draft ML Mockup:
 
-![Draft_ML_Mockup](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module.png)
+![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
+
+![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
