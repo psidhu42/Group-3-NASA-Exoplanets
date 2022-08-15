@@ -10,7 +10,7 @@ Determine if a candidate planet is in fact an Exoplanet or a false positive.
 
 * The NASA Exoplanets topic was selected as it was an easy and large dataset to get a hold of, the data is also verified between many countries and scientific communities.
 
-### Data
+## Data
 
 * The data was sourced directly from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/docs/data.html).
 
@@ -23,7 +23,7 @@ Determine if a candidate planet is in fact an Exoplanet or a false positive.
 
 * "KOI Table (Cumulative list)" was used as the raw data as ["KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/data/KEPLER_DATASET.csv). All columns and rows were downloaded into a csv file. The file contains roughly 150 columns and 9,600 rows, with the first 150 or so rows containing a key/descriptions for the column names. These column key/description rows were removed and the ["CLEAN_KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/data/CLEAN_KEPLER_DATASET.csv) was then uploaded to the repo in the "data" folder.
 
-### Question
+## Question
 
 How can we use machine learning to automate the process of confirming a planet candidate as a real Exoplanet or as a false positive, and how accurate can we make that algorithm?
 
