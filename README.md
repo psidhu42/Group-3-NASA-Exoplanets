@@ -115,4 +115,3 @@ Gravity vs Mass vs Outcome
 ### Slides
 
 The powerpoint mockup slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/powerpoints/NASAExoplanets.pptx)
-
