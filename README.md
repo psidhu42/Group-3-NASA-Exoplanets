@@ -77,12 +77,12 @@ Team members present a provisional database that stands in for the final databas
 
 ERD:
 
-![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/QuickDBD-export.png)
+![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/ERD.png)
 
 
-Draft Database:
+PySpark Dataframes:
 
-![Draft_Database](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_Database.png)
+![PySpark_DataFrames](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/PySpark_DataFrames.png)
 
 
 
@@ -90,4 +90,29 @@ Draft Database:
 
 Draft ML Mockup:
 
-![Draft_ML_Mockup](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module.png)
+![Draft_ML_Mockup1](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module1.png)
+
+![Draft_ML_Mockup2](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
+
+## Dashboard and Powerpoint
+
+NASA Dashboard
+
+![NASA_Dashboard](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/Pritpal/resources/images/NASADashboard.png)
+
+Pie Chart
+
+![Pie_Chart](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/PieStory.png)
+
+Mass / Outcome
+
+![MassStory](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/MassStory.png)
+
+Gravity vs Mass vs Outcome
+
+![GravMassStory](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/GravMassStory.png)
+
+### Slides
+
+The powerpoint mockup slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/powerpoints/NASAExoplanets.pptx)
+
