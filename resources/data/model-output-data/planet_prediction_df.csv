@@ -1,4 +1,4 @@
-Number of Planets,Planet Radius (Earth),Equalibrium Temp (K),Orbit Period (Days),Star Radius (Sun),Star Temp (K),Star Mass (Sun),Star Surface Gravity,Planet-Star Radius Ratio,Prediction,Kepler_OI_Name
+Number of Planets,Planet Radius (Earth),Equalibrium Temp (K),Orbit Period (Days),Star Radius (Sun),Star Temp (K),Star Mass (Sun),Star Surface Gravity,Planet-Star Radius Ratio,Prediction,KOI Name
 1,14.6,638.0,19.89913995,0.868,5853.0,0.961,4.544,0.154046,0,K04032.04
 1,12.21,1103.0,4.959319244,1.082,5712.0,0.976,4.359,0.103379,0,K04034.02
 1,7.51,467.0,40.4195037,0.781,5446.0,0.714,4.507,0.088069,1,K04046.02
