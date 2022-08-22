@@ -17,20 +17,15 @@ Determine if a candidate planet is in fact an Exoplanet or a false positive.
 
 #### Mockup Model
 
-* "Planetary Systems Composite Data" was used as the raw data. All columns and rows were downloaded into a csv file. The file contains roughly 300 columns and 33,000 rows, with the first 300 or so rows containing a key/descriptions for the column names. These column key/description rows were removed and the ["Cleaned_NASA_Exoplanets.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/data/Cleaned_NASA_Exoplanets.csv) was then uploaded to the repo in the "data" folder.
+* "Planetary Systems Composite Data" was used as the raw data. All columns and rows were downloaded into a csv file. The file contains roughly 300 columns and 33,000 rows, with the first 300 or so rows containing a key/descriptions for the column names. These column key/description rows were removed and the ["Cleaned_NASA_Exoplanets.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/data/cleaned-input-data/Cleaned_NASA_Exoplanets.csv) was then uploaded to the repo in the "data" folder.
 
 #### Project Model
 
-* "KOI Table (Cumulative list)" was used as the raw data as ["KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/data/KEPLER_DATASET.csv). All columns and rows were downloaded into a csv file. The file contains roughly 150 columns and 9,600 rows, with the first 150 or so rows containing a key/descriptions for the column names. These column key/description rows were removed and the ["CLEAN_KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/data/CLEAN_KEPLER_DATASET.csv) was then uploaded to the repo in the "data" folder.
+* "KOI Table (Cumulative list)" was used as the raw data as ["KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/data/raw-nasa-data/KEPLER_DATASET.csv). All columns and rows were downloaded into a csv file. The file contains roughly 150 columns and 9,600 rows, with the first 150 or so rows containing a key/descriptions for the column names. These column key/description rows were removed and the ["CLEAN_KEPLER_DATA.csv"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/data/cleaned-input-data/CLEAN_KEPLER_DATASET.csv) was then uploaded to the repo in the "data" folder.
 
 ## Question
 
 How can we use machine learning to automate the process of confirming a planet candidate as a real Exoplanet or as a false positive, and how accurate can we make that algorithm?
-
-### Group Communication
-
-* Slack Group Chat
-* ZOOM meetings
 
 ## Machine Learning Model
 
@@ -38,11 +33,11 @@ How can we use machine learning to automate the process of confirming a planet c
 
 #### Mockup Model
 
-See ["initial_data_test.ipynb"](/Project-Test/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
+See ["initial_data_test.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
 
 #### Project Model
 
-The model used for the project moving forward is ["kepler-data-model.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/Project-Test/kepler-data-model.ipynb) located in the "Project-Test" folder.
+The model used for the project moving forward is ["kepler-data-model.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/kepler-data-model.ipynb) located in the "Project-Test" folder.
 
 ### Outline / Plan
 
@@ -98,7 +93,9 @@ Draft ML Mockup:
 
 NASA Dashboard
 
-![NASA_Dashboard](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/Pritpal/resources/images/NASADashboard.png)
+[Dashboard Link](https://public.tableau.com/app/profile/zana.brown/viz/NASAExoplanets_16605263877560/Dashboard1?publish=yes)
+
+![NASA_Dashboard](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/NASADashboard.png)
 
 Pie Chart
 
@@ -114,4 +111,4 @@ Gravity vs Mass vs Outcome
 
 ### Slides
 
-The powerpoint mockup slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/powerpoints/NASAExoplanets.pptx)
+The powerpoint mockup slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/NASAExoplanets%20(1).pptx)
