@@ -72,22 +72,22 @@ Team members present a provisional database that stands in for the final databas
 
 ERD:
 
-![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/resources/images/ERD.png)
+![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/ERD.png)
 
 
 PySpark Dataframes:
 
-![PySpark_DataFrames](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/resources/images/PySpark_DataFrames.png)
+![PySpark_DataFrames](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/PySpark_DataFrames.png)
 
 
 * Joining unverified_planets and verified_planets tables into keplar_planets table in PGAdmin.
 
-![SQL_Join](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/resources/images/SQL_Join.png)
+![SQL_Join](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/SQL_Join.png)
 
 
 * Machine learning module is connected to the provisional database and accessing the keplar_planets table.
 
-![Database_Connection](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/resources/images/Database_Connection.png)
+![Database_Connection](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/Database_Connection.png)
 
 
 ## Dashboard
