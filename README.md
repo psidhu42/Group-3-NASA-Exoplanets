@@ -89,7 +89,7 @@ Draft ML Mockup:
 
 ![Draft_ML_Mockup2](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/Project-Test/Draft_ML_Module2.png)
 
-## Dashboard and Powerpoint
+## Dashboard
 
 NASA Dashboard
 
@@ -109,6 +109,8 @@ Gravity vs Mass vs Outcome
 
 ![GravMassStory](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/GravMassStory.png)
 
-### Slides
+### Presentation Slides
 
-The powerpoint mockup slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/NASAExoplanets%20(1).pptx)
+The powerpoint slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/NASAExoplanetsUpdated.pptx)
+
+Google Slides [Link](https://docs.google.com/presentation/d/1-ZsL2HIXOKwcvWKq68CT_qUibRD5obnorcnUabokGMQ/edit#slide=id.p)
