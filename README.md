@@ -94,7 +94,7 @@ PySpark Dataframes:
 
 NASA Dashboard
 
-[Dashboard Link](https://public.tableau.com/app/profile/zana.brown/viz/NASAExoplanets_16605263877560/Dashboard1?publish=yes)
+[Dashboard Link](https://public.tableau.com/app/profile/zana.brown/viz/NASAExoplanets_16605263877560/ExoDash)
 
 ![NASA_Dashboard](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/NASADashboard.png)
 
