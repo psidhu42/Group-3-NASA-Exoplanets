@@ -33,11 +33,11 @@ How can we use machine learning to automate the process of confirming a planet c
 
 #### Mockup Model
 
-See ["initial_data_test.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/initial_data_test.ipynb) file in the "Project Test" folder to view provisional database loaded in, and the input data labels.
+See ["initial_data_test.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/initial_data_test.ipynb) file in the "project-code-files" folder to view provisional database loaded in, and the input data labels.
 
 #### Project Model
 
-The model used for the project moving forward is ["kepler-data-model.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/kepler-data-model.ipynb) located in the "Project-Test" folder.
+The model used for the project moving forward is ["kepler-data-model.ipynb"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/project-code-files/kepler-data-model.ipynb) located in the "project-code-files" folder.
 
 ### Outline / Plan
 
@@ -112,6 +112,6 @@ Gravity vs Mass vs Outcome
 
 ### Presentation Slides
 
-The powerpoint slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/NASAExoplanetsUpdated.pptx)
+The powerpoint slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/FinalizedDraft.pptx)
 
 Google Slides [Link](https://docs.google.com/presentation/d/1-ZsL2HIXOKwcvWKq68CT_qUibRD5obnorcnUabokGMQ/edit#slide=id.p)
