@@ -72,22 +72,22 @@ Team members present a provisional database that stands in for the final databas
 
 ERD:
 
-![ERD](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/ERD.png)
+![ERD](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/keplerquerytables.png)
 
 
-PySpark Dataframes:
+AWS Database:
 
-![PySpark_DataFrames](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/PySpark_DataFrames.png)
+![AWS_Database](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/aws_database_02.png)
 
 
 * Joining unverified_planets and verified_planets tables into keplar_planets table in PGAdmin.
 
-![SQL_Join](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/SQL_Join.png)
+![SQL_Join](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/keplerqueryjoin.png)
 
 
 * Machine learning module is connected to the provisional database and accessing the keplar_planets table.
 
-![Database_Connection](https://raw.githubusercontent.com/psidhu42/Group-3-NASA-Exoplanets/Kris/resources/images/Database_Connection.png)
+![Database_Connection](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/images/AWS_Database_Connection.png)
 
 
 ## Dashboard
@@ -112,6 +112,6 @@ Gravity vs Mass vs Outcome
 
 ### Presentation Slides
 
-The powerpoint slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/FinalizedDraft.pptx)
+The powerpoint slides can be found at ["NASAExoplanets.pptx"](https://github.com/psidhu42/Group-3-NASA-Exoplanets/blob/main/resources/presentation-slides/NASAExoplanets.pptx)
 
 Google Slides [Link](https://docs.google.com/presentation/d/1-ZsL2HIXOKwcvWKq68CT_qUibRD5obnorcnUabokGMQ/edit#slide=id.p)
